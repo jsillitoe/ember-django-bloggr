@@ -1,0 +1,1 @@
+App.ApplicationSerializer = DS.DjangoRESTSerializer.extend({});
