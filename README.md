@@ -1,8 +1,11 @@
-* Ember-Django-Bloggr
+# Ember-Django-Bloggr
 
-ember.js django app implementing the Bloggr Demo Application
+Implementation of the EmberJs Bloggr demo using a Django server.
 
-*** To run this django application
+The original can be found here: https://github.com/tildeio/bloggr-client
+
+
+## To run this django application
 
 1. pip install -r requirements.txt
 2. python manage.py runserver
@@ -10,7 +13,13 @@ ember.js django app implementing the Bloggr Demo Application
 4. http://localhost:8000
 
 
-*** Thanks
+The django admin module is installed at http://localhost:8000/admin
 
-Thanks to toranb for this example:  https://github.com/toranb/complex-ember-data-example
+user: admin
+pass: admin
+
+
+## Thanks
+
+Thanks to **toranb** for this example:  https://github.com/toranb/complex-ember-data-example
 
